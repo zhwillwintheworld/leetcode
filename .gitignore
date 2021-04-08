@@ -1,0 +1,14 @@
+.idea/
+pkg
+target/
+*/target/
+*.class
+.settings/
+*/.settings/
+.classpath
+.project
+*.json
+*.iml
+*/*.iml
+*.DS_Store
+*/node_modules
