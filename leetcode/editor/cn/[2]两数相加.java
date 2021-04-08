@@ -54,6 +54,7 @@
  */
  class Solution {
     public ListNode addTwoNumbers(ListNode l1, ListNode l2) {
+        // 类似于多个有序链表的合并
         int extra = 0;
         ListNode root = new ListNode(0);
         ListNode next = root;
